@@ -4,9 +4,9 @@ My name is Sebastian Ohberg, you can localize me in different social media as "E
 I'm passionate of tech and programming and also share all what i know to everyone, that's why i create this Github.
 
 
-### What you'll here?
+### What you'll find here?
 
-- ***Courses:*** All of what i was learning i'm going writing it as course form or guide, if you want to say it, with detailed explanation in spanish for now.
+- ***Courses:*** All of what i was learning i'm going writing it as course form or guide if you want to say it, with detailed explanation in spanish for now.
 - ***Portfolio:*** Also i'm making my portfolio, and here you'll find it in english.
 - ***Website:*** My website is allowed here because price and facility to did it.
 
