@@ -16,7 +16,7 @@ I'm passionate of tech and programming and also share all what i know to everyon
 
 
 - ***Social media and contact:*** Here you have all ways to contact me.
-- ***Email:*** sebastian.ohberg01@gmail.com -> maybe i'll create a proffessional email, but this is main for now
+- ***Email:*** sebastian.ohberg01@gmail.com -> maybe i'll create a professional email, but this is main for now
 - ***Youtube:*** https://www.youtube.com/channel/UC0Qt82miuKZfk8OplYF5l7Q ***Work in progress***
 - ***Twitter:*** https://twitter.com/_ende4vor_
 - ***Instagram:*** https://www.instagram.com/_ende4vor_/
